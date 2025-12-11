@@ -1,0 +1,16 @@
+{
+  "port": 3000,
+  "ollama": {
+    "apiKey": "a73a3f2d31a94b7daf51140764c92a42.rIpx2YDOjlMv7WsE_wE0IS0g",
+    "apiUrl": "https://ollama.com/api/generate",
+    "defaultModel": "gpt-oss:120b-cloud"
+  },
+  "cors": {
+    "enabled": false,
+    "origin": "*"
+  },
+  "logging": {
+    "level": "info",
+    "verbose": true
+  }
+}
